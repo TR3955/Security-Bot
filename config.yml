@@ -1,12 +1,12 @@
 # @format
 bot:
-  ID: '000000000'
+  ID: '1370050201523458138'
   TOKEN: ''
-  PREFIX: '?'
+  PREFIX: 'T?'
   EMBED_COLOR: '#ff0000'
-  OWNERS: ['870179991462236170']
-  MONGO: ''
+  OWNERS: ['1351845223642300487']
+  MONGO: 'mongodb+srv://tokir:trtokir@tr.rqy3u.mongodb.net/?retryWrites=true&w=majority'
 links:
-  INVITE: 'https://discord.com/oauth2/authorize?client_id=0000000000&permissions=8&scope=applications.commands%20bot'
-  SUPPORT: 'https://dsc.gg/codexdev'
+  INVITE: 'https://discord.com/oauth2/authorize?client_id=1370050201523458138'
+  SUPPORT: 'https://discord.gg/xkGYer2gyE'
   VOTE: 'https://top.gg/bot/0000000/vote'
